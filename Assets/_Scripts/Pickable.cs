@@ -8,7 +8,7 @@ public class Pickable : MonoBehaviour {
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            Destroy(other);
+            Destroy(this.gameObject);
         }
     }
 }
