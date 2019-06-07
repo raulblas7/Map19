@@ -4,3 +4,4 @@
 - Raúl Blas Ruiz
 ## Cambios realizados
 - Hemos incorporado una DeadZone
+- Ahora podemos recoger objetos
